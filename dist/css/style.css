@@ -1,0 +1,30 @@
+.check-box {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 2px 7px 0 0;
+  position: absolute;
+  overflow: hidden;
+  border: 1px solid #ccc;
+  margin-left: 5px; }
+
+.check-box i {
+  position: absolute;
+  left: 0px;
+  bottom: -18px;
+  width: 18px;
+  height: 18px;
+  text-align: center;
+  color: #fff;
+  font-size: 18px; }
+
+.checkedBox {
+  border: none;
+  background: blue; }
+
+.checkedBox i {
+  bottom: 2px;
+  font-size: 16px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,29 +1,28 @@
+input.hiddenInput {
+    display: none;
+}
+
 .check-box {
     width: 18px;
     height: 18px;
     cursor: pointer;
-    display: inline-block;
-    margin: 2px 7px 0 0;
-    position: absolute;
+    position: relative;
     overflow: hidden;
-    border: 1px solid #ccc;
-    margin-left: 5px;
+    border: 1px solid #188CF9;
+    display: inline-block;
 }
 .check-box i {
     position: absolute;
     left: 0px;
-    bottom: -18px;
     width: 18px;
     height: 18px;
     text-align: center;
     color: #fff;
-    font-size: 18px;
 }
 .checkedBox{
-    border:none;
-    background:blue;
+    background: #188CF9;
 }
 .checkedBox i {
     bottom: 2px;
-    font-size: 16px;
+    font-size: 20px;
 }

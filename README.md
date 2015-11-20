@@ -1,6 +1,6 @@
 # Mithril-checkbox
 A [Mithril](https://lhorie.github.io/mithril/) Styled Checkbox.  
-You can watch the demo [here](#) (Soon)
+You can watch the demo [here](https://arabyalhomsi.github.io/mithril-checkbox/)
 
 ## How to use
 
